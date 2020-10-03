@@ -5,6 +5,10 @@ date: "10/3/2020"
 output: html_document
 ---
 
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.is9ymSTl1LqYd_rvfR9N_gHaFj%26pid%3DApi&f=1)
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresearch.princeton.edu%2Fsites%2Fresearch%2Ffiles%2Fstyles%2Fpwds_media_xxlarge_cropped_16x9%2Fpublic%2Fnews%2Fimg-8675_banner.jpg%3Fitok%3DvJbk46Fi&f=1&nofb=1)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
