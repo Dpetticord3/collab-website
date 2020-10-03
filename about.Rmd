@@ -1,0 +1,11 @@
+---
+title: "About"
+author: "Daniel Petticord"
+date: "10/3/2020"
+output: html_document
+---
+>I am a first year graduate student at Cornell University working with [Dr. Jed Sparks](http://www.eeb.cornell.edu/sparks/) and [Dr. Xiangtao Xu](https://github.com/xiangtaoxu). 
+>
+>My interests are in community ecology, biophysics, and theoretical modeling - but I am broadly interested in most things, be they herps, mycorrhizae, or GHG  emissions. 
+>
+>I have worked extensively in Panama and Kenya, but am currently planning to focus on new research at Buck Island Ranch in Lake Placid, Florida
